@@ -1,0 +1,7 @@
+main: com.trafficlights.TraficLightsMain
+version: 1.0.0
+name: TrafficLights
+api-version: 1.13
+commands:
+  tl:
+    description: Traffic lights
